@@ -1,4 +1,10 @@
- const sounds = ['sup','beluga','boi','hi','old','pasta','dada','funny','gaga','goose','oops','whatsup','wicky']
+ const sounds = ['boi','hi','old','pasta','dada','funny','gaga','goose','oops','whatsup','wicky', 'tiny',
+    'elmo',
+    'goldilocks',
+    'greenhams',
+    'greenhams2',
+    'mark',
+    'papajohn']
 
  sounds.forEach(sound => {
     const btn = document.createElement('button')
