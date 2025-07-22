@@ -1,4 +1,4 @@
- const sounds = ['boi', 'bruce', 'dada', 'elmo', 'funny', 'gaga', 'goldilocks', 'goose', 'greenhams', 'greenhams2', 'hi', 'mark', 'old', 'oops', 'papajohn', 'pasta', 'tiny', 'whatsup', 'wicky']
+ const sounds = ['boi', 'bruce', 'cheeseburger', 'crunchybois', 'dada', 'elmo', 'funny', 'gaga', 'giggle', 'goldilocks', 'goose', 'greenhams', 'greenhams2', 'hi', 'mark', 'old', 'oops', 'papajohn', 'pasta', 'phats', 'tiny', 'whatsup', 'wicky']
 
 
  sounds.forEach(sound => {
